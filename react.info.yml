@@ -1,0 +1,6 @@
+name: React Library
+description: React JavaScript library. Integration module with react 0.14 and later
+type: module
+core: 8.x
+dependencies:
+  - libraries
